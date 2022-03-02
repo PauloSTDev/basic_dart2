@@ -8,3 +8,23 @@ We can not use underline at the middle or at the end, just at the beginning, mak
 ❗ All the packages, libraries, directories and source files will be named with lower case, usying underline to separe the words ❗
 
 ## Operators in Dart
+### Arithmatic Operators
+Are used for mathematical calculations.
+
+add/plus = +
+
+Subtract = -
+
+Unary minus = -expr
+
+Multiply = *
+
+Divide = /
+
+Divide, for returning an integer result only = ~/ (print(10 ~/ 3) = 3)
+
+and Modulo = % (print(89%9) = 8) Get the remainder of an integer division
+
+(+) Also used to concatenate two or more strings (print("5"+"5") = 55)
+
+(*) Also used to multiply (print("a"*5) = aaaaa)
