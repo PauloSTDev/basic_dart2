@@ -52,3 +52,14 @@ Less than <
 Greater than or equal to >=
 
 Less than or equal to <=
+
+### Type Test Operators
+Used for testing data type and specifying library prefix
+
+as: Typecast and to specify prefix (import "package:lib/lib.dart" as libraryName)
+
+is: Returns true if the object, variable or value has the specified type (if (produtcPrice is double){})
+
+is!: Returns false if the object, variable or value has the specified type (if (produtcPrice is! double){})
+
+Using is and is! we can check if the object, variable or value of specific type or not
