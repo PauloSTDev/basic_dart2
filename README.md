@@ -63,3 +63,7 @@ is: Returns true if the object, variable or value has the specified type (if (pr
 is!: Returns false if the object, variable or value has the specified type (if (produtcPrice is! double){})
 
 Using is and is! we can check if the object, variable or value of specific type or not
+### Assignment Operators
+Are used to assign value to variable (variable = value, fistNumber = 10). If we want to set value to a variable only if the variable is null then we can use null assignment operator (variableName ??= value, firstName ??= "Paul").
+
+We can use ?? too (variable = variable ?? value) If the variable is null so the value will be assigned to the variable.
