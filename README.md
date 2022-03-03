@@ -28,3 +28,27 @@ and Modulo = % (print(89%9) = 8) Get the remainder of an integer division
 (+) Also used to concatenate two or more strings (print("5"+"5") = 55)
 
 (*) Also used to multiply (print("a"*5) = aaaaa)
+
+### Increment and Decrement Operators
+Dart supports both prefix and postfix increment and decrement operators as other languages.
+
+--decrement or decrement-- is the same thing = 1 - variable
+
+++increment or increment++ is the same thing = 1 + variable
+
+### Equality and Relational Operators
+Are used to compare if both values are equal ou not and to check relation if one value is grater ou lesser than other value and always returns true ou false.
+
+#### Equality Operators:
+Equal ==
+
+Not equal != 
+
+#### Relational Operators:
+Greater than >
+
+Less than <
+
+Greater than or equal to >=
+
+Less than or equal to <=
