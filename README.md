@@ -93,6 +93,19 @@ Used to manipulate the individual bits of numbers in Dart
 e >> Right Shift
 
 ### Conditional Expression Operators
+Dart has two operators that let you concisely evaluate expressions that might otherwise require if-else  statements
+
+?: Interrogation signed with Colon
+
+?? Double Interrogation
+
+When you need to assign a value based on a boolean expression, consider using => ?:
+
+If the boolean expression tests for null, consider using => ??
+
+Example: condition ? expr1 : expr2 == If the condition is true, evaluates expr1(and returns its value); otherwise, evaluates and returns the value of expr2:
+Example: expr1 ?? expr2 == If expr1 is non-null, returns its value; otherwise, evaluates and returns the value of expr2.
+
 
 
 
