@@ -70,3 +70,29 @@ We can use ?? too (variable = variable ?? value) If the variable is null so the 
 
 ### Compound Assignment Operators
 Combine an operation with an assignment, always are combined with an assignment operator and arithmetic operator or relational operator.
+
+### Logical Operators
+You can invert or combine boolean expressions using the logical operators
+! Invert values
+
+|| Logical OR
+
+&& Logical AND
+
+### Bitwise and Shift Operators
+Used to manipulate the individual bits of numbers in Dart
+
+& AND
+
+| OR
+
+^ XOR
+
+<< Left Shift
+
+e >> Right Shift
+
+### Conditional Expression Operators
+
+
+
