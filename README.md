@@ -110,5 +110,34 @@ Example: expr1 ?? expr2 == If expr1 is non-null, returns its value; otherwise, e
 ### Keywords
 63 Keywords until now: https://dart.dev/guides/language/language-tour#keywords
 
+### Types in Dart
+There are four kinds of data: Text, Number, Boolean and Custom Type(User Defined Type)
+
+In Dart text Type is data is  called String type data,
+there are classifications in Number Type data.
+Booleans are  True and False.
+And Custom Type can be all together.
+
+There are 8 built-it types in dart based on complexity: numbers, strings, booleans, lists (also known as arrays), sets, maps, runes(for expressing Unicode characters in a string) and symbols.
+
+### Number
+Unlike other languages, Dart has only two number type data and those are int and double
+
+Example:
+
+int firstNumber = 10;
+
+double secondNumber = 10.5;
+
+If you want to work with fraction data then  the data type must be double.
+
+We can use toStringAsFixed() method for fixing digits after fraction:
+
+123.456.toStringAsFixed(2);
+
+result => "123.46"
+
+
+
 
 
