@@ -137,7 +137,37 @@ We can use toStringAsFixed() method for fixing digits after fraction:
 
 result => "123.46"
 
+### String
 
+A dart String is a sequence of UTF-16 code units. You can use either single or double quotes to create a string.
 
+String text1 = "Something";
 
+String text2 = 'Something';
+
+Use forward slash to escape character if you use quotation insingle quote literal.
+
+String text1 = "It´s something";
+
+String text2 = 'It\´s something';
+
+You can put the value of an expression inside a string by using ${expression}.
+
+String text = 'string interpolation';
+
+print('Dart has ${text}, which is very handy.');
+
+if the expression is a identifier you can skip {}.
+
+print('Dart has $text, which is very handy.');
+
+You can concatenate strings using adjacent string literals or the + operator.
+
+String text = 'String '
+
+'concatenation'
+
+"works even over line breaks. ";
+
+print(text + "More String");
 
