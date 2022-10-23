@@ -178,4 +178,8 @@ the lines that you need.''';
 
 String text2 = """Also a multi-line strings"""
 
+You can create a "raw" string by prefixing it with r:
+
+String text = r'In a raw string, not even \n gets special treatment.';
+
 
