@@ -182,4 +182,7 @@ You can create a "raw" string by prefixing it with r:
 
 String text = r'In a raw string, not even \n gets special treatment.';
 
+## Booleans
+
+Dart has a type named bool to represent bo0lean values. The boolean literals are true and false, which are both compile-time constants.
 
