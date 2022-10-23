@@ -186,3 +186,10 @@ String text = r'In a raw string, not even \n gets special treatment.';
 
 Dart has a type named bool to represent bo0lean values. The boolean literals are true and false, which are both compile-time constants.
 
+### List
+
+We can call list of object as well
+
+var numberList = [1, 2, 3];
+
+List<String> stringList = ["Paulo", "Santos"];
