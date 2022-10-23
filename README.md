@@ -173,7 +173,8 @@ print(text + "More String");
 
 Triple quote: 
 
-String text1 ='''Multi-line strings''';
+String text1 ='''Multi-line strings, it will use...
+the lines that you need.''';
 
 String text2 = """Also a multi-line strings"""
 
