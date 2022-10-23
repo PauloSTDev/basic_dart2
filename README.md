@@ -171,5 +171,10 @@ String text = 'String '
 
 print(text + "More String");
 
+Triple quote: 
+
+String text1 ='''Multi-line strings''';
+
+String text2 = """Also a multi-line strings"""
 
 
