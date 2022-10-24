@@ -222,3 +222,10 @@ object['first'] = 1;
 object['second'] = 'String';
   
 object['third'] = '3';
+
+### Runes
+
+In Dart Runes are the UTF-32 code points of a string, Runes helps creating emojis.
+
+![2022-10-24 13_14_49-DartPad](https://user-images.githubusercontent.com/67521304/197574833-58c15706-9ee6-4172-b575-10d53527dd40.png)
+
