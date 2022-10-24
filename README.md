@@ -284,3 +284,13 @@ class Student {
 print(Student.name);
   
 ## Everything is Material!!
+  
+
+### Condicional Structure
+  
+We can do with the same way that we use in orthers languages:
+  
+If and Else:
+  
+![2022-10-24 19_37_21-DartPad](https://user-images.githubusercontent.com/67521304/197643117-eaa990c7-50d2-4456-a6d3-116bddbe8ec6.png)
+  
