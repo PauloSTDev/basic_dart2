@@ -193,3 +193,11 @@ We can call list of object as well
 var numberList = [1, 2, 3];
 
 List<String> stringList = ["Paulo", "Santos"];
+
+### Sets
+
+Unauthorized collection of unique items:
+
+var colors= {'blue', 'red', 'yellow'};
+
+Set<String> colors2= {'blue', 'red', 'yellow'};
