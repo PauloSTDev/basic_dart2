@@ -302,4 +302,7 @@ For:
  
 ![image](https://user-images.githubusercontent.com/67521304/197646794-89dd71c5-f26c-40b3-8981-8013fe9ff00d.png)
 
-  
+While:
+
+![image](https://user-images.githubusercontent.com/67521304/197647718-af272888-7536-4a3e-82f3-b5f8c1a8167b.png)
+
