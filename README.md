@@ -201,3 +201,24 @@ Unauthorized collection of unique items:
 var colors= {'blue', 'red', 'yellow'};
 
 Set<String> colors2= {'blue', 'red', 'yellow'};
+  
+### Maps
+
+Object that associates keys and values that can be any values, value can be duplicate but key must be unique:
+  
+var object = {
+   //key : value
+  'first' : 1,
+  'second' : 'String',
+  'third': '3'
+ };
+  
+You can create the same Map using a Mpa constructor:
+  
+var object = Map();
+  
+object['first'] = 1;
+  
+object['second'] = 'String';
+  
+object['third'] = '3';
