@@ -294,3 +294,8 @@ If and Else:
   
 ![2022-10-24 19_37_21-DartPad](https://user-images.githubusercontent.com/67521304/197643117-eaa990c7-50d2-4456-a6d3-116bddbe8ec6.png)
   
+Switch Case:
+  
+![image](https://user-images.githubusercontent.com/67521304/197643893-1f462a7d-8d61-4417-8d17-ced93c1e082e.png)
+
+  
