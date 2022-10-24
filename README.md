@@ -235,4 +235,15 @@ In Dart, Symbols are basically an object representation of either an identifier 
   
 There´s not much information found in Dart Official Documentation: https://api.dart.dev/stable/2.18.3/dart-core/Symbol-class.html, but there´s in geeksforgeeks: https://www.geeksforgeeks.org/dart-symbols/
 
-
+### Constant
+  
+Keywork used for declaring such variables whose value is not changeble after initializing. Constant variables are implicitly Final.
+  
+const String name = "Paulo Santos";
+  
+If you want to make an external constant variable or instance constant field make it statuc:
+  
+class Person{
+  static const String name = "Paulo Santos";
+}
+  
