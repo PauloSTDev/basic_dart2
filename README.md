@@ -298,4 +298,8 @@ Switch Case:
   
 ![image](https://user-images.githubusercontent.com/67521304/197644133-08a9799e-fa5b-472d-964e-cc1f56228e91.png)
 
+For:
+ 
+![image](https://user-images.githubusercontent.com/67521304/197646794-89dd71c5-f26c-40b3-8981-8013fe9ff00d.png)
+
   
