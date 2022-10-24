@@ -241,9 +241,27 @@ Keywork used for declaring such variables whose value is not changeble after ini
   
 const String name = "Paulo Santos";
   
-If you want to make an external constant variable or instance constant field make it statuc:
+If you want to make an external constant variable or instance constant field make it static:
   
 class Person{
   static const String name = "Paulo Santos";
 }
   
+### Final
+  
+Like constant, Final is a keyword used for declaring such variables whose value is not changeable after initializing.
+  
+final String name = "Paulo Santos";
+
+Final instance variable must be initialized before construct a body.
+  
+class Student{
+  final String name = "Paulo Santos";
+}
+
+or
+  
+class Student{
+  final String name;
+  Student(this.name);
+}
