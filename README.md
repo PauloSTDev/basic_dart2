@@ -228,4 +228,11 @@ object['third'] = '3';
 In Dart Runes are the UTF-32 code points of a string, Runes helps creating emojis.
 
 ![2022-10-24 13_14_49-DartPad](https://user-images.githubusercontent.com/67521304/197574833-58c15706-9ee6-4172-b575-10d53527dd40.png)
+  
+### Symbols
+  
+In Dart, Symbols are basically an object representation of either an identifier or operator.  The symbols in dart are opaque and dynamic string names that cannot be changed and remains constant throughout the compile time.
+  
+There´s not much information found in Dart Official Documentation: https://api.dart.dev/stable/2.18.3/dart-core/Symbol-class.html, but there´s in geeksforgeeks: https://www.geeksforgeeks.org/dart-symbols/
+
 
