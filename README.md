@@ -265,3 +265,20 @@ class Student{
   final String name;
   Student(this.name);
 }
+
+### Diference between Final & Constant
+  
+Variable and Instance Variables both can be Final but Instance Variables can not be Constant.
+  
+If you want to create a Constant Intance Variable then we have to make it static and initialize in the class level:
+  
+class Student {
+    static const String name = "Paulo Santos";
+}
+  
+You can not create constant Instance Variable as we know, static are not instantiable. We can just create a static constant field in a class with initialized value and call it statically:
+  
+class Student {
+    static const String name = "Paulo Santos";
+}
+print(Student.name);
