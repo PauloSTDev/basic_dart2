@@ -296,6 +296,6 @@ If and Else:
   
 Switch Case:
   
-![image](https://user-images.githubusercontent.com/67521304/197643893-1f462a7d-8d61-4417-8d17-ced93c1e082e.png)
+![image](https://user-images.githubusercontent.com/67521304/197644133-08a9799e-fa5b-472d-964e-cc1f56228e91.png)
 
   
