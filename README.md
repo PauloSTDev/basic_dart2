@@ -306,3 +306,8 @@ While:
 
 ![image](https://user-images.githubusercontent.com/67521304/197647718-af272888-7536-4a3e-82f3-b5f8c1a8167b.png)
 
+### Required
+  
+We used the prefix Required when the params must to be always mandatory. When not mandatory inside a function we can just add the params inside to a square brackets.
+  
+  
