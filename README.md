@@ -1,4 +1,8 @@
-# Dart
+
+<div align= "center">
+  <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-38738f?style=for-the-badge&logo=dart&logoColor=61bde8" width="380">
+</div>
+
 ## Variables and Values Assignments
 ### Naming Variables:
 Variables names can be any valid letter, word or even sentence but it can not start with a number, the number can be at the middle or at the end. We can use underline at the beginning, we can not use at the end and at the middle of a variable. We can not use any operator(+, - ...) or any special caracter in your variable name. Private variables has a underline at the beginning(_variable).
